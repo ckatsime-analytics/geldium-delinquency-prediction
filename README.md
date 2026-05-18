@@ -12,6 +12,7 @@ This project focuses on predicting customer delinquency using machine learning a
 - Jupyter Notebook
 
 ## Project Objectives
+- This project aimed to analyze a customer dataset to predict account delinquency and identify at-risk customers
 - Analyze customer financial behavior
 - Perform data preprocessing and feature engineering
 - Build predictive models for delinquency prediction
